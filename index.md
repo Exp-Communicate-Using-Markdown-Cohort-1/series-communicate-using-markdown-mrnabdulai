@@ -8,3 +8,6 @@ def leetcode():
     print("Come on")
 
 ```
+- [ ] do hard things
+- [ ] do more hard things
+- [ ] Do even more hard things
